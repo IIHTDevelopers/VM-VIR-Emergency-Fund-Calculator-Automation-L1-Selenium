@@ -38,108 +38,103 @@ public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 	 * @author : Yaksha
 	 */
 	public String navigateToEmergencyfundCalculator() throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 
 	/**@Test2
 	 * about this method entermedicalDentalCost() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "MedicalDentalCostAmount"
 	 * @description : enter medical Dental Cost
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String entermedicalDentalCost(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
-	
 	/**@Test3
 	 * about this method enterVehicleRepaircost() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "VehicleRepairCost"
 	 * @description : enter Vehicle Repair cost
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterVehicleRepaircost(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test4
 	 * about this method enterVehicleRepaircost() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "OtherCosts"
 	 * @description : enter Other Cost
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterOtherCost(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
-	
-	
 	/**@Test5
 	 * about this method enterVehicleRepaircost() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "lifeInsurancePremiumCost"
 	 * @description : enter Life Health Insurance Premium 
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterLifeHealthInsurancePremiumToBePaid(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
-	
 	/**@Test6
 	 * about this method enterHomeAndAutoInsurancePremiumTobePaid() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "homeAndAutoInsurancePremiumAmount"
 	 * @description : enter Home And Auto Insurance Premium
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterHomeAndAutoInsurancePremiumTobePaid(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test7
 	 * about this method enterHomeLoanAndOtherImportantEMIToBePaid() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "HomeLoanAndOtherImportantEMIsCost"
 	 * @description : enter Home Loan And Other Important EMI
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterHomeLoanAndOtherImportantEMIToBePaid(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
-	
 	/**@Test8
 	 * about this method enterMonthlylivingExpenses() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "monthlyLivingExpensesAmount"
 	 * @description : enter Monthly living Expenses
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterMonthlylivingExpenses(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test9
 	 * about this method enterNumberofMonthsIfUnemployed() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using field "monthUnemployedData"
 	 * @description : enter Number of Months If Unemployed
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterNumberofMonthsIfUnemployed(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -151,7 +146,7 @@ public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 	 * @author : Yaksha
 	 */
 	public boolean clickonCalculateButton() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -163,7 +158,7 @@ public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 	 * @author : Yaksha
 	 */
 	public String checkUninsuredEmergencyAmountrequired() throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -175,7 +170,7 @@ public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 	 * @author : Yaksha
 	 */
 	public String checkAnnualAmountOfFixedPaymentsToBedone() throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -187,7 +182,7 @@ public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 	 * @author : Yaksha
 	 */
 	public String checkTotalAmountOfReserveToBeBuild() throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -199,7 +194,7 @@ public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 	 * @author : Yaksha
 	 */
 	public String checktheResult() throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 }
