@@ -7,22 +7,7 @@ import org.openqa.selenium.WebDriver;
 
 public class Emergency_Fund_Calculator_L1_Page extends StartupPage {
 
-	By personalFinancepage=By.xpath("");
-	By emergencyFundCalculator=By.xpath("");
-	By medicalDentalCostsTextField=By.xpath("");
-	By vehicleRepaircostTextField=By.xpath("");
-	By otherCostTextField=By.xpath("");
-	By lifeInsurancePremiumTextField=By.xpath("");
-	By homeAndAutoInsurancePremiumTextField=By.xpath("");
-	By homeLoanAndOtherImportantEMIsTextField=By.xpath("");
-	By monthlyLivingExpensesTextField=By.xpath("");
-	By monthUnemployedTextField=By.xpath("");
-	By calculateButton=By.xpath("");
-	By uninsuredOrUnexpectedEmergenciesField=By.xpath(""); 
-	By annualAmountOfFixedPaymentsField=By.xpath("");
-	By buildReserveToPayForJobLossField=By.id("");
-	By resultField=By.xpath("");
-	
+	// please write all locators here	
 	
 	String pageName = this.getClass().getSimpleName();
 	public Emergency_Fund_Calculator_L1_Page(WebDriver driver) 
